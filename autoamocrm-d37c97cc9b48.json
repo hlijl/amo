@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "autoamocrm",
+  "private_key_id": "d37c97cc9b48b39e5df3348e9fb10dd035379145",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLd2X+liQ2nLVw\nAtk5VpibVJrlJWC82KjBTV4FDbFRuWCyG8xfwU0v/ANDivuKeF6P1VJRlPfLND/d\nGZIVvmvCts2xAXU/YgfmvdDpFJGI26BGQHFAuR5VkmdCeejkul8PtpYgAjvxeeJS\nmlUZDzKxUMbAyRg/mfISZsibIOl33G9hhXd/MEXOXj+uUdgqtG9Mi7bNBeke6Efg\nkmjLmQ7IHahw9xWhqRqeC5AHrfvJCJw6wp6dVM/f4s4WAEsUIB7vVdNOn90MqGgL\n4zcMrl5u9tDRfvQMYumaoQYwb8A5G2hQP+Y+IFHZ2qX4tFWmaagXszPboCVKP2Cm\nJfe6XGdTAgMBAAECggEAZNM5+7qzH0zwrBz9P+ilnvOB/mNTWMGUfpW0LZTndbQD\nMr+Luzey5EBh7aqFk8yqL2Rqcnr7f/rYWtw9BAFkrQyhSUGLtGkDuVf+mkHTDJqp\nBacReB1D5uuxt8NpoU6ppMO6CQqSYcsgWAaafNyHJk787rO4DGxhBLViW10n1HjJ\nJ4CRvQVMholXVxU3DLKP+c3rpgvuQU2lEayxQGfBseqtqqAakrndDaTPP5FUcymM\nA3ORu3Y+FncHJeBnNr2B+WYyZ5j/OBje17HpuPwS+w0kONc9z/22sSJVJluiGazM\nJaY0uTdjBpTOTn65iTb01poIoTA4AILNSfUPSjtUIQKBgQDy342C++5mAMJ2IlaT\n7YRe9c5M7Gd3FX6QA2/M2vMYJW3Qijcxw+1XO1EcyVpinNiV4gE/11WofBJD9c7h\npjNgDXKp0gS3bWnkZ9is8+UPYVO1UYfbJTfeojC/+JHmm2EojGAez6wnvSremIeP\n8WnUomX8Km9Xl6Bj4EwEH9hFpwKBgQDWdpqVBj6dRisUroj7QuHUhYxnKn/TlXlu\n+DTXrr2YWD1DWUGRS7XGKg1uw1nnhfDHt+M5ozfdqjbobYKwqiStC2F6CMQVX/4K\nrvn5eRFbe74KZPqbmt3tr/DW8KHHqijQWM7UBFHTSrEQiHaeGscFxPUwaiUIdzni\niHk8ei0edQKBgAtJxKP/3Za0FlWzRt7dPTfEqO/+VNi+EQHUhw+4ZXAL3UzB/8q6\nVn+lbCGwYhkPPSnKNVCoS3znN1odRJ5MQTsHpPqrnjiAR1msUe/H7i+G0IMu5OeU\nlUItu6JQhUd4lU1zKMyFznSSYDm0USipiceuPJs5xa8GhxfdRusyJ7UlAoGAAuwY\nzSEJp2D2Y1DBgxL1Os0bDajRlxN5VR7CsZGq+bFyHEHSF+W9M1cNWc4Fopb7oe0K\nhpWHxFh2aRJc7oVS/JykFmKaMWRedMzPkSuqJeH4w/F+TLJ+haeZE4Sx36Oc7MHZ\nB6CLcOKaqQwC+cKJpbV6Vc+Mc6IUQtbzN/S+OqUCgYEApRy6+07zrBfADEa1qSbc\nDt4n4JNiLLN2EoOTz6EMKlUcZwi5MPA+qp03w52nXQDXS+vHrKXSw0QtWyHi2Fdc\nz2K3sQZpwsCfJYjtqE7kDUFj7TeiLMmYq6nVRyUjZ7jZsvU9lcb/YRilrsxsabuw\nIoy+zjkYVp5OV8qMFlN0Jzc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amocrm-data-integration@autoamocrm.iam.gserviceaccount.com",
+  "client_id": "114996139058967926246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amocrm-data-integration%40autoamocrm.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
